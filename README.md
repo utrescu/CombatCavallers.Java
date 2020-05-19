@@ -1,5 +1,3 @@
-#FpInfor #DawMp03Uf04 #Programació
-
 # Boxa entre cavallers
 
 La “boxa entre cavallers” es lleugerament més educada que la tradicional. En aquest tipus de boxa els contendents es claven cops però ho fan de forma ordenada
