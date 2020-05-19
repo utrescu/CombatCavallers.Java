@@ -14,7 +14,7 @@ import net.xaviersala.combatcavallers.lluitador.ILluitador;
  *
  * Per defecte tots els lluitadors tenen 20 de vida
  */
-public class Ring {
+public class Ring implements IRing {
 
     private static final int PALLISSA = 5;
     private static final int VIDAINICIAL = 20;
